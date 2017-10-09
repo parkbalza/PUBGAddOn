@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WpfApp1\WpfApp1\bin\Debug\PUBGAddOn.exe.config
+C:\Users\user\source\repos\WpfApp1\WpfApp1\bin\Debug\PUBGAddOn.exe
+C:\Users\user\source\repos\WpfApp1\WpfApp1\bin\Debug\PUBGAddOn.pdb
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn_MarkupCompile.cache
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn_MarkupCompile.lref
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.g.resources
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\Dev_Park.Properties.Resources.resources
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.exe
+C:\Users\user\source\repos\WpfApp1\WpfApp1\obj\Debug\PUBGAddOn.pdb
