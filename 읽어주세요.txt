@@ -1,0 +1,21 @@
+게임구타위원회 박발자에 의해 제작되었습니다.
+
+Ver.0.0.1
+
+구현 기능
+1. 비행기 경로 표시
+   - 라인 그리기 모드를 켜고 마우스 클릭& 드래그로 경로를 그립니다.
+   - 그린 후에 라인 그리기 모드를 꺼야 합니다.
+2. 자기장 타이머
+   - 비행기 탑승과 동시에 타이머를 시작시킵니다.
+   - 시간 체크를 서버에서 이행하는 것으로 보여 서버 지연이 있을경우 타이머가 부정확하게 동작할 수 있습니다.
+3. 차량 젠 포인트 뷰
+   - 노란색 : 중간 확률 차량 리젠
+   - 빨간색 : 높은 확률 차량 리젠
+4. 리셋
+   - 타이머와 차량 젠 포인트 뷰를 끕니다.
+
+1. leftctrl + Space = Line Draw Mode On/Off
+2. leftctrl + Return = Timer Start
+3. L = Vehicle Regen Point View On/Off
+4. leftctrl + F1 = Timer and Vehicle Regen Point view Reset
